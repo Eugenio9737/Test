@@ -1,0 +1,297 @@
+{
+    "docente": [
+        {
+          "id": 1,
+          "rut": "209463008",
+          "username": "vicente Farias",
+          "password": "132816oso",
+          "asignatura": [
+            "Ingenieria de Software",
+            "Programación de Algoritmos"
+          ],
+          "isactive": true,
+          "role": "Docente"
+        },
+        {
+          "id": 2,
+          "rut": "123456789",
+          "username": "viviana",
+          "password": "12345678",
+          "asignatura": "programación app moviles",
+          "isactive": true,
+          "role": "Docente"
+        },
+        {
+          "id": 3,
+          "rut": "200593170",
+          "username": "eugenio",
+          "password": "123456789",
+          "asignatura": [
+            "etica laboral",
+            "antropologia"
+          ],
+          "isactive": true,
+          "role": "Docente"
+        },
+        [
+          {
+            "id": 1,
+            "rut": "209463008",
+            "username": "vicente Farias",
+            "password": "132816oso",
+            "asignatura": [
+              "Ingenieria de Software",
+              "Programación de Algoritmos"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "rut": "209463008",
+            "username": "vicente Farias",
+            "password": "132816oso",
+            "asignatura": [
+              "Ingenieria de Software",
+              "Programación de Algoritmos"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "rut": "209463008",
+            "username": "vicente Farias",
+            "password": "132816oso",
+            "asignatura": [
+              "Ingenieria de Software",
+              "Programación de Algoritmos"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "rut": "209463008",
+            "username": "vicente Farias",
+            "password": "132816oso",
+            "asignatura": [
+              "Ingenieria de Software",
+              "Programación de Algoritmos"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "rut": "209463008",
+            "username": "vicente Farias",
+            "password": "132816oso",
+            "asignatura": [
+              "Ingenieria de Software",
+              "Programación de Algoritmos"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ],
+        [
+          {
+            "id": 3,
+            "rut": "200593170",
+            "username": "eugenio",
+            "password": "123456789",
+            "asignatura": [
+              "etica laboral",
+              "antropologia"
+            ],
+            "isactive": true,
+            "role": "Docente"
+          }
+        ]
+      ],
+      "estudiante": [
+        {
+          "id": 1,
+          "rut": "209463008",
+          "username": "vicente",
+          "password": "132816oso",
+          "isactive": true,
+          "sede": "maipu",
+          "role": "Estudiante"
+        },
+        {
+          "rut": "123123123",
+          "username": "sadfasdf",
+          "password": "123123123",
+          "isactive": true,
+          "role": "Estudiante",
+          "id": 2
+        }
+      ],
+      "qrDocente": [
+        {
+          "rut": "209463008",
+          "asignatura": "Ingenieria de Software",
+          "fecha": "2023-11-20T19:23:00",
+          "id": 1
+        }
+      ],
+      "qrEtudiante": [
+        {
+          "id": 1,
+          "username": "vicente",
+          "rut": "209463008",
+          "asignatura": "programación app moviles",
+          "fecha": ""
+        }
+      ]
+}
